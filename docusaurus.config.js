@@ -10,7 +10,7 @@ const config = {
   tagline: "",
   //url: "https://github.com/",
   url: "https://jorgego11.github.io",
-  baseUrl: "/waiops-tech-jam/",
+  baseUrl: "/techxchange2024/",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
   favicon: "img/favicon.svg",
@@ -18,7 +18,7 @@ const config = {
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: "jorgego11", // Usually your GitHub org/user name.
-  projectName: "waiops-tech-jam", // Usually your repo name.
+  projectName: "techxchange2024", // Usually your repo name.
   deploymentBranch: "gh-pages",
   // Required for search to function correctly
   trailingSlash: true,
