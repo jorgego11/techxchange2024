@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkswat_hub=self.webpackChunkswat_hub||[]).push([[72],{1304:e=>{e.exports=JSON.parse('{"permalink":"/techxchange2024/blog/tags/openshift","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

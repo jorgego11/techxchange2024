@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkswat_hub=self.webpackChunkswat_hub||[]).push([[1185],{7674:a=>{a.exports=JSON.parse('{"label":"sno","permalink":"/techxchange2024/blog/tags/sno","allTagsPath":"/techxchange2024/blog/tags","count":1}')}}]);

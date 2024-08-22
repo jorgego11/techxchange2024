@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkswat_hub=self.webpackChunkswat_hub||[]).push([[9775],{6439:a=>{a.exports=JSON.parse('{"label":"ocp","permalink":"/techxchange2024/blog/tags/ocp","allTagsPath":"/techxchange2024/blog/tags","count":1}')}}]);

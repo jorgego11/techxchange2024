@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkswat_hub=self.webpackChunkswat_hub||[]).push([[828],{3522:e=>{e.exports=JSON.parse('[{"label":"openshift","permalink":"/techxchange2024/blog/tags/openshift","count":1},{"label":"ocp","permalink":"/techxchange2024/blog/tags/ocp","count":1},{"label":"sno","permalink":"/techxchange2024/blog/tags/sno","count":1}]')}}]);
