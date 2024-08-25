@@ -55,7 +55,7 @@ most capacity available.
 :::info
 
 Follow
-[these instructions](/waiops-tech-jam/labs/jam-in-a-box/#requesting-a-lab-environment)
+[these instructions](/techxchange2024/labs/jam-in-a-box/#requesting-a-lab-environment)
 for step by step guidance on requesting a new lab environment in IBM Tech Zone.
 
 :::
@@ -70,7 +70,7 @@ Request Tech Zone environment:
 
 Once you have received an eMail confirming that your environment is ready,
 follow
-[these instructions](/waiops-tech-jam/labs/jam-in-a-box/#accessing-a-lab-environment)
+[these instructions](/techxchange2024/labs/jam-in-a-box/#accessing-a-lab-environment)
 for step by step guidance on accessing your lab environment in IBM Tech Zone.
 
 :::

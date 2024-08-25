@@ -21,6 +21,11 @@ with end-to-end visibility and context. It bridges the gap between an increasing
 IT landscape and siloed teams, on the one hand, and user expectations for little or no interruption in application performance and availability, on the other. 
 
 
+After a successful installation of the IBM Cloud Pak for AIOps, a common task will be to integrate an existing Netcool deployment into AIOps.
+AIOps will sit on top of an existing Netcool deployment, using Netcool/OMNIbus as an event source, and Netcool/Impact as an automation and integration engine. While some functions will be reimplemented in AIOps, many can remain in the Netcool layer, for example, event enrichment or ticketing integrations.
+
+![](images/AIOps_4_architecture.png)
+
 ### Lab Content
 
 Welcome to the Netcool + Cloud Pak for AIOps Lab. You will be going through several exercises that will help 
@@ -28,10 +33,11 @@ you learn key skills around how to add advanced AIOps capabilities to an existin
 
 In this Lab, we will explore the following topics:
 
-* How to consume events from ObjectServers via the AIOps Netcool Connector
-* How to show netcool events custom fields in the AIOps Alert View
-* How to enrich AIOps Alerts leveraging Impact policies.
-*  == COMPLETE ITEMS  == 
+- Set up the Netcool Connector to connect to an existing ObjectServer
+- Set up the Netcool/Impact Connector to connect to an existing Netcool/Impact server
+- Set up an AIOps event housekeeping automation using Netcool/Impact
+- Create a right-click tool in AIOps that calls a Netcool/Impact policy
+- Migrate a custom correlation from Netcool to AIOps
 
 
 The lab should be executed in the numbered order that you see on the left side of the screen in the navigation pane as each section depend on work completed in prior sections.
